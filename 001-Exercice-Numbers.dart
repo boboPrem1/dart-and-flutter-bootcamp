@@ -24,4 +24,9 @@ print(roundedSomeNum);
 // And if whe use floor in place of ceil or round we are sure to get
 // The rounded down value of someNum
 
+// round() return a integer rounded form of the numbers or double
+// ceil() return a integer rounded up form of the numbers or double
+// floor() return a integer rounded down form of the numbers or double
+// roundToDouble() return a double type rounded form of the numbers or double
+
 }
