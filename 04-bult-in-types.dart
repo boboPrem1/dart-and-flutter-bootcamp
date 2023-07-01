@@ -51,4 +51,8 @@ void main() {
   var convertedNum = double.parse(stringNum);
   print(convertedNum);
   print(convertedNum.runtimeType);
+
+  // Essai personnel
+  String manualString = "Alohaaa";
+  print(manualString);
 }
