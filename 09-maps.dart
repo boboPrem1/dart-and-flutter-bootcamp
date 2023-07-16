@@ -66,6 +66,4 @@ void main() {
 
   // To get the keys and values of the map
   elements.forEach((key, value) => print('$key: $value'));
-
-  // To get the keys and values of the
 }

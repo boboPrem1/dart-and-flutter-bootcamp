@@ -22,6 +22,7 @@ final b = 2 * a;
 print(b); // 20
 
 // with const b = 2 * a; will return an error
+// because a is not a const variable
   
 const c = 30;
   
