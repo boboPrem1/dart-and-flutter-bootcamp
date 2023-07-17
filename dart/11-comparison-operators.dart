@@ -3,9 +3,7 @@ var a = 10.0;
 var b = 100;
 
 print(a == b); // false
-print(a === b); // false
 print(a != b); // true
-print(a !== b); // true
 print(a > b); // false
 print(a < b); // true
 print(a >= b); // false
